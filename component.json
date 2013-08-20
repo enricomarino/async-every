@@ -1,0 +1,9 @@
+{
+  "name": "async-every",
+  "repo": "enricomarino/async-every",
+  "version": "0.0.1",
+  "description": "async every",
+  "keywords": ["async", "every"],
+  "scripts": ["index.js"],
+  "license": "MIT"
+}
